@@ -14,7 +14,7 @@ title = "Lowkey Blowfish"
 
 [params.author]
   name = "Blue Blowfish"
-  image = "img\yellowcircle.jpg"
+  image = "img\yellowcircle.png"
   headline = "This is my very simple profile website with my links"
   bio = "A little bit about you"
    links = [
