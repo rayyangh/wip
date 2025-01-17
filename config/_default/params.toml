@@ -27,7 +27,7 @@ mainSections = ["posts"]
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/cover.png" # used in: hero, and card
+  homepageImage = "img/Snapinst.app_245913841_396121592089168_6084899492264438763_n_1080.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
