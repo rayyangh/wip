@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://workinprogresspod.pages.dev/"
+baseURL = "https://workinprogresspod.pages.dev/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
